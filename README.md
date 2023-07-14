@@ -21,8 +21,3 @@ To review the knowledge I should have learnt and to prepare for my Graduate stud
 
 **Stochastic Processes**  
 [Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)
-
----
-Other Notes:
-
-I'll try to upload file as frequently as possible, all course notes are hand-written and will be scanned to PDF before uploading.
