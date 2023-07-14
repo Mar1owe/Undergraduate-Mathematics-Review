@@ -25,4 +25,4 @@ To review the knowledge I should have learnt and to prepare for my Graduate stud
 ---
 Other Notes:
 
-I'll try to upload file as frequent as possible, all course notes are hand-written and will be scanned to PDF before uploading.
+I'll try to upload file as frequently as possible, all course notes are hand-written and will be scanned to PDF before uploading.
