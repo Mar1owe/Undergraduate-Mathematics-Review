@@ -10,7 +10,6 @@ To review the knowledge I should have learnt and to prepare for my Graduate stud
 [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
 **Probability Theory**  
-[Probability and Random Variables](https://ocw.mit.edu/courses/18-440-probability-and-random-variables-spring-2014/)
 
 **Applied Statistics**  (unchecked)
 [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/video_galleries/lecture-videos/)
