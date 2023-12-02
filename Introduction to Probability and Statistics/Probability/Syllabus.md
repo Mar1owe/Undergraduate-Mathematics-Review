@@ -3,8 +3,7 @@
 
 **Study Plan**:
 1. Finish the [reading and problem sets](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/pages/calendar/)
-2. Finish the book *A First Course In Probability*
-3. Finish the [lecture videos](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video_galleries/video-lectures/)
+2. Finish the [lecture videos](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video_galleries/video-lectures/)
 
 **Related Resources**:  
 R tutorial:  
