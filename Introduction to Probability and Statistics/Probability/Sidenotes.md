@@ -7,5 +7,7 @@
 
 **Related Resources**:  
 R tutorial:  
-[1A](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/pages/r-tutorial-1a-basics/)
-[1B](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/pages/r-tutorial-1b-random-numbers/)
+[1A](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/pages/r-tutorial-1a-basics/)  [1B](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/pages/r-tutorial-1b-random-numbers/)
+
+**Problems that worth reviewing**:
+Problem Set 2, Problem 5
